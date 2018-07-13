@@ -1,5 +1,9 @@
+
+**/!\ This repos is deprecated new repo here : https://gitlab.com/cchaudier/dotfiles.local /!\ **
+
 My locals dotfiles
 ===================
+
 
 Requirements
 ------------
